@@ -1,7 +1,7 @@
 # NanoGPT
 # Table of Contents
-- [Overview]([#overview]) 
-- [Requirements]([#requirements])
+- [Overview](#overview) 
+- [Requirements](#requirements)
 - [Installation and Usage]([#installation-and-usage])
 - [Code Explanation]([#code-explanation])
 
