@@ -2,8 +2,8 @@
 # Table of Contents
 - [Overview](#overview) 
 - [Requirements](#requirements)
-- [Installation and Usage]([#installation-and-usage])
-- [Code Explanation]([#code-explanation])
+- [Installation and Usage](#installation-and-usage)
+- [Code Explanation](#code-explanation)
 
 # Overview
 This repository contains a PyTorch implementation of a GPT-style language model trained on the works of Shakespeare. The model is designed to predict the next token in a sequence of text, allowing it to generate coherent text based on the patterns it learns from Shakespeare's writings. The implementation uses Transformer architecture components such as self-attention and feedforward layers to achieve effective language modeling and text generation capabilities.
